@@ -62,8 +62,9 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
 <div>
   <b>R&amp;D-Ankara</b><br>
   <span>
-    Ostim Osb Mahallesi, Cevat Dündar Caddesi,<br>
-    Ostim Teknopark Turuncu Bina, No: 1/1/64,<br>
+    Ostim Osb Mah.<br>
+    Cevat Dündar Cad.<br>
+    Ostim Teknopark Turuncu Bina No: 1/1/64<br>
     Yenimahalle / Ankara / TÜRKİYE
   </span>
 </div>
@@ -71,10 +72,10 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
 <div>
   <b>R&amp;D-İstanbul</b><br>
   <span>
-    İkitelli OSB Mahallesi<br>
-    YTÜ İkitelli Teknopark Sokak<br>
+    İkitelli OSB Mah.<br>
+    YTÜ İkitelli Teknopark Sok.<br>
     Yıldız Teknik Üniversitesi Teknopark<br>
-    No: 1/1B11<br>
+    No: 1/1 B11<br>
     Başakşehir / İstanbul/ TÜRKİYE
   </span>
 </div>
