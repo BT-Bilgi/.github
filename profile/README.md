@@ -55,7 +55,7 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
     Vedat Günyol Cad.<br>
     Defne Sok. Flora Suite Office<br>
     Kat:28 Daire:2803<br>
-    34758 Ataşehir – İstanbul / TÜRKİYE
+    34758 Ataşehir / İstanbul / TÜRKİYE
   </span>
 </div>
 <br>
@@ -63,8 +63,8 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
   <b>R&amp;D-Ankara</b><br>
   <span>
     Ostim Osb Mahallesi, Cevat Dündar Caddesi,<br>
-    Turuncu Bina, No: 1/1/64,<br>
-    Yenimahalle, Ankara / TÜRKİYE
+    Ostim Teknopark Turuncu Bina, No: 1/1/64,<br>
+    Yenimahalle / Ankara / TÜRKİYE
   </span>
 </div>
 <br>
@@ -75,7 +75,7 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
     YTÜ İkitelli Teknopark Sokak<br>
     Yıldız Teknik Üniversitesi Teknopark<br>
     No: 1/1B11<br>
-    Başakşehir-İstanbul/ TÜRKİYE
+    Başakşehir / İstanbul/ TÜRKİYE
   </span>
 </div>
 
