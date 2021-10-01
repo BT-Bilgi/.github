@@ -79,6 +79,8 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
     Başakşehir / İstanbul/ TÜRKİYE
   </span>
 </div>
+
 <br>
 <br>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BT-Bilgi)
