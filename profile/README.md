@@ -83,3 +83,4 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
 
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=BT-Bilgi)
