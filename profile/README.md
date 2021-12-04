@@ -8,25 +8,26 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
 
 <h2><b>Our Customers</b></h2>
 <p align="center">
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/yapikredi.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/sekerbank.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/gunes_sigorta.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/isnet.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/gelir_idaresi.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/garanti_teknoloji-e1500225408404.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/enpara.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/eczacibasi.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/bilgi_uni.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/allianz.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/teb.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/tai.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/ssm.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/sabiha_gokcen.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/petrol_ofisi.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/omv.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/hvkk.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/arkas.png" height="80px" />&nbsp;
-<img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/adel.png" height="80px" />&nbsp;
+  <img src="https://github.com/BT-Bilgi/.github/blob/master/profile/images/vf-logo-nonbg.png?raw=true" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/yapikredi.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/sekerbank.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/gunes_sigorta.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/isnet.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/gelir_idaresi.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/garanti_teknoloji-e1500225408404.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/enpara.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/eczacibasi.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/bilgi_uni.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/allianz.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/teb.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/tai.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/ssm.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/sabiha_gokcen.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/petrol_ofisi.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/omv.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/hvkk.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/arkas.png" height="80px" />&nbsp;
+  <img src="https://btbilgi.com.tr/wp-content/uploads/2014/08/adel.png" height="80px" />&nbsp;
 </p>
 
 <h2><b>Our Strategic Solution Partners</b></h2>
