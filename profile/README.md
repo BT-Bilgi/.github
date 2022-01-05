@@ -41,13 +41,21 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
   <img src="https://btbilgi.com.tr/wp-content/uploads/2021/02/btbilgi-veracode-logo.png" height="80px" />&nbsp;
 </p>
 
-<h3><b>Social Media</b></h3>
+<h2><b>Job Oppurtunities</b></h2>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/company/btbilgiteknolojileri/)](https://www.linkedin.com/company/btbilgiteknolojileri/)&nbsp;
-[![Facebook](https://img.shields.io/badge/-Facebook-white?style=flat-square&logo=Facebook&logoColor=1877F2&link=https://www.facebook.com/BTBilgi/)](https://www.facebook.com/BTBilgi/)&nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/BTBilgi/)](https://twitter.com/BTBilgi/)&nbsp;
+> **[Mid-Level Software Engineer](https://www.linkedin.com/jobs/view/2468059091/?eBP=CwEAAAF-KKanTZbhTP_Kxn_pfiyUKry_SSwtbjhRJWFLKcddkf8Um6BjAJWwjY5xVLYysgkvlptfdco8sgG88Udck98_m65u0FnMHwLcMR4DUay_MK6TGGO9jr1DPx9nrVG-l2TrDYdO0UC3dm0YBT0Fx_31aJjgCabSKwuaJFghdmg9_AgtvyM51Xa1v9Z-AfXT9kGVXICL06bsOz6NHKHi2YOoh7CmBTTE2qh-PdOK5ximpwigq-UibXrDSuu4M4sko5mH_FwBZPkDz5ANqnzCPcT2-9CXbgRukOgw4NuONgdbMlo1nnXDhDg2yKSsAqORh8BbudGUmAMUO4jPQ_Mptvt7Qxg0Y7ThqZ4o40VscSfRtwUfJSLyR1sC-DeWS2qv8rNjWGqM8wUsTLHxx7zuhA&refId=YULWr%2FhxaEha%2FPOm6nLU2Q%3D%3D&trackingId=eQG1vsFIWFtIBGjCOsqOJQ%3D%3D&trk=d_flagship3_company)**
 
-<h3><b>Contact Us</b></h3>
+> **[Junior BT Mühendisi](https://www.linkedin.com/jobs/view/2859351045/?refId=YULWr%2FhxaEha%2FPOm6nLU2Q%3D%3D&trackingId=gN6uylXGchBkmkcutR3dJQ%3D%3D&trk=d_flagship3_company)**
+
+<h2><b>Social Media</b></h2>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/btbilgiteknolojileri/)](https://www.linkedin.com/company/btbilgiteknolojileri/)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/BTBilgi/)](https://www.facebook.com/BTBilgi/)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/BTBilgi/)](https://twitter.com/BTBilgi/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/btbilgisocial/)](https://www.instagram.com/btbilgisocial/)&nbsp;
+
+
+<h2><b>Contact Us</b></h2>
 
 <div style="width: 300px;">
   <b>Headquarter</b><br>
