@@ -48,7 +48,6 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/BTBilgi/)](https://twitter.com/BTBilgi/)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/btbilgisocial/)](https://www.instagram.com/btbilgisocial/)&nbsp;
 
-
 <h2><b>Contact Us</b></h2>
 
 <div style="width: 300px;">
@@ -61,19 +60,3 @@ Our vendor and platform free solutions offered to companies world-wide reflect t
     34758 Ataşehir / İstanbul / TÜRKİYE
   </span>
 </div>
-<br>
-<div>
-  <b>R&amp;D-İstanbul</b><br>
-  <span>
-    İkitelli OSB Mah.<br>
-    YTÜ İkitelli Teknopark Sok.<br>
-    Yıldız Teknik Üniversitesi Teknopark<br>
-    No: 1/1 B11<br>
-    Başakşehir / İstanbul/ TÜRKİYE
-  </span>
-</div>
-
-<br>
-<br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=BT-Bilgi)
