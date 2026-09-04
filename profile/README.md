@@ -51,7 +51,7 @@ BT Bilgi'nin kendi ITSM platformu DCase ve satış-desteğini verdiğimiz dokuz 
 
 | Ürün | Kategori |
 | :--- | :--- |
-| **DCase** · BT Bilgi platformu | Platform · Servis Yönetimi |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BT-Bilgi/.github/master/profile/images/vendors/dcase-dark.png"><img src="https://raw.githubusercontent.com/BT-Bilgi/.github/master/profile/images/vendors/dcase.png" alt="DCase" width="96" height="32" align="absmiddle"></picture> · BT Bilgi platformu | Platform · Servis Yönetimi |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BT-Bilgi/.github/master/profile/images/vendors/broadcom-dark.png"><img src="https://raw.githubusercontent.com/BT-Bilgi/.github/master/profile/images/vendors/broadcom.png" alt="Broadcom" width="96" height="32" align="absmiddle"></picture> · DX Operational Intelligence | AIOps · Operasyon Zekâsı |
 | <img src="https://btbilgi.com.tr/assets/partner-solarwinds.png" width="96" alt="SolarWinds" align="absmiddle"> · Hybrid Cloud Observability | Observability · Hibrit Bulut Görünürlüğü |
 | <img src="https://btbilgi.com.tr/assets/partner-ivanti.png" width="96" alt="Ivanti" align="absmiddle"> · Neurons Platform | ESM · Süreç Otomasyonu |
